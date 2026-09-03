@@ -1,0 +1,59 @@
+about:
+  description: Your CLI home video recorder 📼
+  license: MIT
+  homepage: 
+  head: c073383
+  archived: false
+  latestVersion: v0.11.0
+  collectedAt: 2026-09-03T04:21:37Z
+timeline:
+  created: 2022-07-19
+  lastCommit: 2026-08-12
+  lastRelease: 2026-03-10
+popularity:
+  star: 20801
+  watcher: 37
+  fork: 467
+  release: 15
+  contributor: 62
+  pullRequest: 177
+  issue: 261
+language:
+  Go: 172594
+  Dockerfile: 1489
+  Makefile: 432
+  Shell: 197
+totalLine: 174712
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 2
+    openPR: 5
+    closedIssue: 0
+    openIssue: 0
+    commit: 3
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 2
+    openPR: 14
+    closedIssue: 1
+    openIssue: 5
+    commit: 4
+  last180d:
+    since: 2026-03-07
+    release: 1
+    mergedPR: 8
+    openPR: 27
+    closedIssue: 2
+    openIssue: 12
+    commit: 11
+  last360d:
+    since: 2025-09-08
+    release: 1
+    mergedPR: 26
+    openPR: 37
+    closedIssue: 3
+    openIssue: 25
+    commit: 34
