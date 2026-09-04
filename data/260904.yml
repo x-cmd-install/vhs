@@ -7,7 +7,7 @@ about:
   head: c073383
   archived: false
   latestVersion: v0.11.0
-  collectedAt: 2026-09-04T19:36:30Z
+  collectedAt: 2026-09-04T20:56:31Z
 timeline:
   created: 2022-07-19
   lastCommit: 2026-08-12
@@ -83,6 +83,54 @@ total:
   openIssue: 120
   commit: 756
 ---
+path: /home/runner/.x-repo/github.com/charmbracelet/vhs
+collectedAt: 2026-09-04T20:56:37Z
+loc:
+  Json:
+    code: 10689
+    comments: 0
+    blanks: 0
+    files: 1
+  Go:
+    code: 5447
+    comments: 693
+    blanks: 798
+    files: 41
+  Dockerfile:
+    code: 36
+    comments: 10
+    blanks: 11
+    files: 1
+  Bitbake:
+    code: 17
+    comments: 0
+    blanks: 2
+    files: 1
+  Makefile:
+    code: 11
+    comments: 2
+    blanks: 4
+    files: 1
+  Sh:
+    code: 7
+    comments: 1
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1715
+    blanks: 567
+    files: 22
+  Text:
+    code: 0
+    comments: 1
+    blanks: 0
+    files: 1
+total:
+  code: 16312
+  comments: 2436
+  blanks: 1393
+  files: 69
 ---
 date: "2026-08-24"
 repo:
