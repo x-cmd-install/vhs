@@ -5,13 +5,13 @@ about:
   head: c073383
   archived: false
   latestVersion: "v0.11.0"
-  collectedAt: 2026-09-07T06:10:50Z
+  collectedAt: 2026-09-07T18:23:55Z
 timeline:
   created: 2022-07-19
   lastCommit: 2026-08-12
   lastRelease: 2026-03-10
 popularity:
-  star: 20828
+  star: 20830
   watcher: 38
   fork: 469
   release: 15
@@ -82,7 +82,7 @@ total:
   commit: 756
 ---
 path: /home/runner/.x-repo/github.com/charmbracelet/vhs
-collectedAt: 2026-09-07T06:10:55Z
+collectedAt: 2026-09-07T18:23:59Z
 loc:
   Json:
     code: 10689
@@ -236,7 +236,7 @@ checks:
       - 'Warn: 0 commits out of 23 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T06:10:57+00:00
+  collectedAt: 2026-09-07T18:24:03+00:00
   platform:
     darwin/arm64:
       name:  vhs_0.11.0_Darwin_arm64.tar.gz
