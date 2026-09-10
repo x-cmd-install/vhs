@@ -1,61 +1,61 @@
 # vhs
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 Your CLI home video recorder 📼
 
-![vhs](https://repo.x-cmd.io/vhs.svg)
+![vhs](https://repo.x-cmd.io/vhs.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install vhs
 ```
 
-## Code insight
+## 代码规模
 
-Total: **16,728** lines of code across **47** files in the top 5 languages.
+合计: **16,728** 行代码（覆盖前 5 种语言、共 **47** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Json | 10,689 | 0 | 0 | 1 |
 | Go | 5,968 | 773 | 868 | 43 |
 | Dockerfile | 36 | 10 | 11 | 1 |
 | Bitbake | 17 | 0 | 2 | 1 |
 | Makefile | 11 | 2 | 4 | 1 |
 
-## OpenSSF Scorecard
+## OpenSSF Scorecard 评分
 
-Overall score: **4.7 / 10**
+总评分: **4.7 / 10**
 
-Lowest-scoring checks:
+评分最低的几项:
 
 - **Code-Review** (4/10) — Found 6/14 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/charmbracelet/vhs>
-- **License**: MIT
+- **上游仓库**: <https://github.com/charmbracelet/vhs>
+- **许可证**: MIT
 
-## Release
+## 发布
 
-- **Latest**: `v0.12.0` (2026-09-09)
-- **Last commit**: 2026-09-09
-- **Assets in release**: 32
+- **最新版本**: `v0.12.0` (2026-09-09)
+- **最近提交**: 2026-09-09
+- **Release 含资产**: 32 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 20,853 · **Forks**: 472 · **Open issues**: 262 · **Contributors**: 62
+- **Star**: 20,853 · **Fork**: 472 · **开放 issue**: 262 · **贡献者**: 62
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 16 · **Merged PRs**: 288 · **Open PRs**: 53 · **Closed issues**: 142 · **Open issues**: 120 · **Commits**: 760
+- **发布数**: 16 · **已合并 PR**: 288 · **开放 PR**: 53 · **已关闭 issue**: 142 · **开放 issue**: 120 · **提交数**: 760
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 1 | 3 | 6 | 0 | 1 | 3 |
 | last60d | 2026-07-12 | 1 | 4 | 12 | 1 | 2 | 6 |
@@ -64,10 +64,10 @@ Lowest-scoring checks:
 | 360d | 2025-09-15 | 2 | 28 | 37 | 4 | 25 | 36 |
 | last720d | 2024-09-20 | 4 | 93 | 47 | 19 | 49 | 118 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [checksums.txt](https://github.com/charmbracelet/vhs/releases/download/v0.12.0/checksums.txt) | 2.8 KiB | `other` |
 | [checksums.txt.sigstore.json](https://github.com/charmbracelet/vhs/releases/download/v0.12.0/checksums.txt.sigstore.json) | 10.1 KiB | `other` |
 | [vhs-0.12.0-1.aarch64.rpm](https://github.com/charmbracelet/vhs/releases/download/v0.12.0/vhs-0.12.0-1.aarch64.rpm) | 8.4 MiB | `runtime/rpm/aarch64` |
@@ -101,12 +101,12 @@ Lowest-scoring checks:
 | [vhs_0.12.0_x86.apk](https://github.com/charmbracelet/vhs/releases/download/v0.12.0/vhs_0.12.0_x86.apk) | 9.6 MiB | `other` |
 | [vhs_0.12.0_x86_64.apk](https://github.com/charmbracelet/vhs/releases/download/v0.12.0/vhs_0.12.0_x86_64.apk) | 9.9 MiB | `other` |
 
-## Distribution status
+## 发行版状态
 
-Reported by **74** distros on [repology.org](https://repology.org/project/vhs). **6** are ✅ on the latest upstream release, **63** are ⚠️ on an older version.
+在 [repology.org](https://repology.org/project/vhs) 上共有 **74** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**63** 个 ⚠️ 使用旧版本。
 
-| Distro | Version | Status |
-|--------|---------|--------|
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
 | Arch | `0.11.0` | ⚠️ outdated |
 | Homebrew | `0.12.0` | ✅ latest |
 | Fedora rawhide | `0.11.0` | ⚠️ outdated |
@@ -115,13 +115,13 @@ Reported by **74** distros on [repology.org](https://repology.org/project/vhs). 
 | Alpine edge | `0.11.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.9.0` | ⚠️ outdated |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for vhs lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `vhs` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+vhs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `vhs` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/vhs.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/vhs.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:05:17Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:05:18Z._
