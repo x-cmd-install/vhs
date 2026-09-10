@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2848,
       "digest": "sha256:099aacd14820acd8ee942049d953d6034d6848d4264c5b4ffc63fe5bb127ead8",
-      "download_count": 94,
+      "download_count": 97,
       "created_at": "2026-09-09T09:50:47Z",
       "updated_at": "2026-09-09T09:50:47Z",
       "browser_download_url": "https://github.com/charmbracelet/vhs/releases/download/v0.12.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 10295,
       "digest": "sha256:fa4e5861490ba13215fc1add2aa740a2cff6b0181257efb5081df9537b754ff3",
-      "download_count": 49,
+      "download_count": 51,
       "created_at": "2026-09-09T09:50:47Z",
       "updated_at": "2026-09-09T09:50:47Z",
       "browser_download_url": "https://github.com/charmbracelet/vhs/releases/download/v0.12.0/checksums.txt.sigstore.json"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 9284160,
       "digest": "sha256:8fe52ea2bfe829c1c733d66b82683346795b0f36baa7dbc52961da8f3b82eaca",
-      "download_count": 128,
+      "download_count": 153,
       "created_at": "2026-09-09T09:50:45Z",
       "updated_at": "2026-09-09T09:50:46Z",
       "browser_download_url": "https://github.com/charmbracelet/vhs/releases/download/v0.12.0/vhs_0.12.0_Darwin_arm64.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 9473331,
       "digest": "sha256:9f3dc4672af1ec4e83361f4efe996da95c82177b9d795b21d8bcbad814d26823",
-      "download_count": 176,
+      "download_count": 178,
       "created_at": "2026-09-09T09:50:45Z",
       "updated_at": "2026-09-09T09:50:46Z",
       "browser_download_url": "https://github.com/charmbracelet/vhs/releases/download/v0.12.0/vhs_0.12.0_Linux_x86_64.tar.gz"
