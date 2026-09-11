@@ -43,6 +43,17 @@
     - fallback-mnt-aosc@repology
   categories:
     - utils
+- repo: arch
+  subrepo: extra
+  srcname: vhs
+  binname: vhs
+  visiblename: vhs
+  version: 0.11.0
+  origversion: 0.11.0-1
+  status: outdated
+  summary: A tool for recording terminal GIFs
+  licenses:
+    - MIT
 - repo: aerynos
   srcname: vhs
   visiblename: vhs
@@ -351,6 +362,19 @@
     - cielesti@protonmail.com
   licenses:
     - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: vhs
+  binname: vhs-zsh-completion
+  visiblename: vhs-zsh-completion
+  version: 0.11.0
+  origversion: 0.11.0-r3
+  status: outdated
+  summary: Zsh completions for vhs
+  maintainers:
+    - wanghao03@loongson.cn
+  licenses:
+    - MIT
 - repo: alpine_3_23
   subrepo: community
   srcname: vhs
@@ -492,30 +516,6 @@
   summary: Fish completions for vhs
   maintainers:
     - wanghao03@loongson.cn
-  licenses:
-    - MIT
-- repo: alpine_edge
-  subrepo: community
-  srcname: vhs
-  binname: vhs-zsh-completion
-  visiblename: vhs-zsh-completion
-  version: 0.11.0
-  origversion: 0.11.0-r3
-  status: outdated
-  summary: Zsh completions for vhs
-  maintainers:
-    - wanghao03@loongson.cn
-  licenses:
-    - MIT
-- repo: arch
-  subrepo: extra
-  srcname: vhs
-  binname: vhs
-  visiblename: vhs
-  version: 0.11.0
-  origversion: 0.11.0-1
-  status: outdated
-  summary: A tool for recording terminal GIFs
   licenses:
     - MIT
 - repo: aur
@@ -826,9 +826,9 @@
   srcname: vhs
   binname: vhs
   visiblename: vhs
-  version: 0.11.0
+  version: 0.12.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Your CLI home video recorder
   maintainers:
     - jared@jaredcervantes.com
@@ -840,9 +840,9 @@
   srcname: vhs
   binname: vhs-dbginfo
   visiblename: vhs-dbginfo
-  version: 0.11.0
+  version: 0.12.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Debug symbols for vhs
   maintainers:
     - jared@jaredcervantes.com
