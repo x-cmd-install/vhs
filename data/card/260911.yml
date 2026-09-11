@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.12.0"
   latestRelease: "v0.12.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:23:05Z
+  collectedAt: 2026-09-11T18:32:21Z
 timeline:
   created: 2022-07-19
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
-  star: 20854
+  star: 20861
   watcher: 38
   fork: 472
   release: 16
@@ -86,7 +86,7 @@ total:
   commit: 760
 ---
 path: /home/runner/.x-repo/github.com/charmbracelet/vhs
-collectedAt: 2026-09-11T06:23:10Z
+collectedAt: 2026-09-11T18:32:28Z
 loc:
   Json:
     code: 10689
