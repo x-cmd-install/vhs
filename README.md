@@ -26,12 +26,12 @@ Total: **16,728** lines of code across **47** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.3 / 10**
+Overall score: **5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 6/17 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (3/10) — Found 6/17 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 20,947 · **Forks**: 480 · **Open issues**: 262 · **Contributors**: 62
+- **Stars**: 20,949 · **Forks**: 481 · **Open issues**: 262 · **Contributors**: 62
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 1 | 2 | 9 | 0 | 1 | 3 |
-| last60d | 2026-07-23 | 1 | 4 | 12 | 1 | 2 | 6 |
-| 90d | 2026-06-23 | 1 | 5 | 16 | 1 | 5 | 6 |
-| last180d | 2026-03-25 | 1 | 7 | 27 | 2 | 11 | 9 |
-| 360d | 2025-09-26 | 2 | 28 | 40 | 4 | 25 | 35 |
-| last720d | 2024-10-01 | 4 | 92 | 50 | 19 | 49 | 117 |
+| 30d | 2026-08-23 | 1 | 2 | 8 | 0 | 1 | 3 |
+| last60d | 2026-07-24 | 1 | 4 | 12 | 1 | 2 | 6 |
+| 90d | 2026-06-24 | 1 | 5 | 16 | 1 | 5 | 6 |
+| last180d | 2026-03-26 | 1 | 7 | 26 | 2 | 11 | 9 |
+| 360d | 2025-09-27 | 2 | 28 | 40 | 4 | 24 | 35 |
+| last720d | 2024-10-02 | 4 | 92 | 50 | 19 | 49 | 117 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for vhs lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:38:42Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:41:22Z._
