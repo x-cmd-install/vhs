@@ -4,7 +4,7 @@
 
 Your CLI home video recorder 📼
 
-[![x-cmd/install — vhs Code Quality Monitoring Repo Card](https://repo.x-cmd.io/vhs.svg)](https://x-cmd.com/install/vhs)
+[![x-cmd/install — vhs Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/vhs.svg)](https://x-cmd.com/install/vhs)
 
 ## Install
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 20,949 · **Forks**: 481 · **Open issues**: 262 · **Contributors**: 62
+- **Stars**: 20,960 · **Forks**: 481 · **Open issues**: 262 · **Contributors**: 62
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 2 | 8 | 0 | 1 | 3 |
-| last60d | 2026-07-24 | 1 | 4 | 12 | 1 | 2 | 6 |
-| 90d | 2026-06-24 | 1 | 5 | 16 | 1 | 5 | 6 |
-| last180d | 2026-03-26 | 1 | 7 | 26 | 2 | 11 | 9 |
-| 360d | 2025-09-27 | 2 | 28 | 40 | 4 | 24 | 35 |
-| last720d | 2024-10-02 | 4 | 92 | 50 | 19 | 49 | 117 |
+| 30d | 2026-08-24 | 1 | 2 | 8 | 0 | 1 | 3 |
+| last60d | 2026-07-25 | 1 | 4 | 11 | 1 | 1 | 6 |
+| 90d | 2026-06-25 | 1 | 5 | 16 | 1 | 5 | 6 |
+| last180d | 2026-03-27 | 1 | 7 | 26 | 2 | 11 | 9 |
+| 360d | 2025-09-28 | 2 | 28 | 40 | 4 | 24 | 35 |
+| last720d | 2024-10-03 | 4 | 92 | 50 | 19 | 49 | 117 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for vhs lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:41:22Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:49:05Z._
