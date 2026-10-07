@@ -30,8 +30,8 @@ x install vhs
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 7/19 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (3/10) — Found 7/19 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -47,7 +47,7 @@ x install vhs
 
 ## 流行度
 
-- **Star**: 21,062 · **Fork**: 483 · **开放 issue**: 262 · **贡献者**: 64
+- **Star**: 21,069 · **Fork**: 483 · **开放 issue**: 262 · **贡献者**: 64
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install vhs
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 2 | 2 | 7 | 1 | 0 | 1 |
-| last60d | 2026-08-07 | 2 | 5 | 9 | 1 | 0 | 6 |
-| 90d | 2026-07-08 | 2 | 6 | 15 | 2 | 1 | 7 |
-| last180d | 2026-04-09 | 2 | 7 | 20 | 3 | 7 | 9 |
-| 360d | 2025-10-11 | 3 | 26 | 39 | 5 | 22 | 33 |
-| last720d | 2024-10-16 | 5 | 92 | 49 | 20 | 48 | 117 |
+| 30d | 2026-09-07 | 2 | 2 | 6 | 1 | 0 | 1 |
+| last60d | 2026-08-08 | 2 | 5 | 9 | 1 | 0 | 6 |
+| 90d | 2026-07-09 | 2 | 6 | 15 | 2 | 1 | 7 |
+| last180d | 2026-04-10 | 2 | 7 | 20 | 3 | 7 | 9 |
+| 360d | 2025-10-12 | 3 | 26 | 39 | 5 | 22 | 33 |
+| last720d | 2024-10-17 | 5 | 92 | 49 | 20 | 47 | 117 |
 
 ## Release 资产
 
@@ -110,4 +110,4 @@ vhs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261006.yml` · 2026-10-06T07:55:21Z._
+_数据快照: `data/card/261007.yml` · 2026-10-07T07:20:58Z._
