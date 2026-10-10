@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2848,
       "digest": "sha256:16b4af37083abcbfbc75d558b1b70fc7a5246787872766960e7ee70f8cdf622f",
-      "download_count": 959,
+      "download_count": 1023,
       "created_at": "2026-09-24T09:30:54Z",
       "updated_at": "2026-09-24T09:30:54Z",
       "browser_download_url": "https://github.com/charmbracelet/vhs/releases/download/v0.12.1/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 10342,
       "digest": "sha256:1c869c19324fa2009d2a3c322f1f49fe298f369ec66e6c80787f7242bafa4185",
-      "download_count": 672,
+      "download_count": 714,
       "created_at": "2026-09-24T09:30:55Z",
       "updated_at": "2026-09-24T09:30:55Z",
       "browser_download_url": "https://github.com/charmbracelet/vhs/releases/download/v0.12.1/checksums.txt.sigstore.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 8805514,
       "digest": "sha256:bc899d59e9addfa918d79d02e4de0fc0319cd3cdf5cf990b4389273091ee9cbf",
-      "download_count": 70,
+      "download_count": 75,
       "created_at": "2026-09-24T09:30:53Z",
       "updated_at": "2026-09-24T09:30:54Z",
       "browser_download_url": "https://github.com/charmbracelet/vhs/releases/download/v0.12.1/vhs-0.12.1-1.aarch64.rpm"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 9139626,
       "digest": "sha256:36d8e0de106f4bbe7bbfa72f399606251df412d7c4640c8caf9de06bd00c244d",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-24T09:30:53Z",
       "updated_at": "2026-09-24T09:30:54Z",
       "browser_download_url": "https://github.com/charmbracelet/vhs/releases/download/v0.12.1/vhs-0.12.1-1.i386.rpm"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 9467552,
       "digest": "sha256:66b9bcf88f4bf48bfab436575e41e835e1d4224e43e36dd7944fc66130e3e962",
-      "download_count": 75,
+      "download_count": 82,
       "created_at": "2026-09-24T09:30:54Z",
       "updated_at": "2026-09-24T09:30:55Z",
       "browser_download_url": "https://github.com/charmbracelet/vhs/releases/download/v0.12.1/vhs-0.12.1-1.x86_64.rpm"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 29133245,
       "digest": "sha256:a294f15c93a1dbb88d42b7ea01064a036b13f56b42f38aae2d3aeedb7c43b91d",
-      "download_count": 290,
+      "download_count": 295,
       "created_at": "2026-09-24T09:30:53Z",
       "updated_at": "2026-09-24T09:30:54Z",
       "browser_download_url": "https://github.com/charmbracelet/vhs/releases/download/v0.12.1/vhs-0.12.1.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 9691708,
       "digest": "sha256:994aed572fcb08c64ffefd100559e8785745fe6403b1ad75ff602518e38f3756",
-      "download_count": 57,
+      "download_count": 61,
       "created_at": "2026-09-24T09:30:53Z",
       "updated_at": "2026-09-24T09:30:54Z",
       "browser_download_url": "https://github.com/charmbracelet/vhs/releases/download/v0.12.1/vhs_0.12.1_aarch64.apk"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 9461190,
       "digest": "sha256:30a9b2746f19522387eace24f427208b5dc4ce2413d334147a0b89a2304cfbe4",
-      "download_count": 403,
+      "download_count": 423,
       "created_at": "2026-09-24T09:30:54Z",
       "updated_at": "2026-09-24T09:30:55Z",
       "browser_download_url": "https://github.com/charmbracelet/vhs/releases/download/v0.12.1/vhs_0.12.1_amd64.deb"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 8805728,
       "digest": "sha256:d276c29cdbef38865fdfa86ec3e7cd47732304637c4bd5672af16d6f2319406c",
-      "download_count": 89,
+      "download_count": 99,
       "created_at": "2026-09-24T09:30:54Z",
       "updated_at": "2026-09-24T09:30:55Z",
       "browser_download_url": "https://github.com/charmbracelet/vhs/releases/download/v0.12.1/vhs_0.12.1_arm64.deb"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 9284179,
       "digest": "sha256:b5b524ed60c949eb80dfb685a18eeb135eb863c97f7279689b4e153363cd27c5",
-      "download_count": 2431,
+      "download_count": 2507,
       "created_at": "2026-09-24T09:30:53Z",
       "updated_at": "2026-09-24T09:30:54Z",
       "browser_download_url": "https://github.com/charmbracelet/vhs/releases/download/v0.12.1/vhs_0.12.1_Darwin_arm64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 9963104,
       "digest": "sha256:24596d14673251496e37f5cd984ad0a1d864f3d1c4ec1f2eca251f6b9fe6367d",
-      "download_count": 456,
+      "download_count": 479,
       "created_at": "2026-09-24T09:30:53Z",
       "updated_at": "2026-09-24T09:30:54Z",
       "browser_download_url": "https://github.com/charmbracelet/vhs/releases/download/v0.12.1/vhs_0.12.1_Darwin_x86_64.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 9141482,
       "digest": "sha256:db6a200299f9ccfea3fc1b6522e44409f67cfdee09903b23495e78f4403ade8c",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-09-24T09:30:54Z",
       "updated_at": "2026-09-24T09:30:55Z",
       "browser_download_url": "https://github.com/charmbracelet/vhs/releases/download/v0.12.1/vhs_0.12.1_i386.deb"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 8803865,
       "digest": "sha256:0b27029809fcc2ca2c381cceb854cbe03479a0f229b963e9bc3a2f2c36ffd3e7",
-      "download_count": 454,
+      "download_count": 481,
       "created_at": "2026-09-24T09:30:53Z",
       "updated_at": "2026-09-24T09:30:54Z",
       "browser_download_url": "https://github.com/charmbracelet/vhs/releases/download/v0.12.1/vhs_0.12.1_Linux_arm64.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 9145403,
       "digest": "sha256:f8fee8d63d7c03e624edb4827a3fe760a504db54ecd4e069d8c4eb63270abfba",
-      "download_count": 36,
+      "download_count": 37,
       "created_at": "2026-09-24T09:30:53Z",
       "updated_at": "2026-09-24T09:30:54Z",
       "browser_download_url": "https://github.com/charmbracelet/vhs/releases/download/v0.12.1/vhs_0.12.1_Linux_i386.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 9474207,
       "digest": "sha256:eb33787a5b1cebf91fe0b18bd231e2d71d36c1ff4babd99ddac1a6ab411efd10",
-      "download_count": 4123,
+      "download_count": 4321,
       "created_at": "2026-09-24T09:30:53Z",
       "updated_at": "2026-09-24T09:30:54Z",
       "browser_download_url": "https://github.com/charmbracelet/vhs/releases/download/v0.12.1/vhs_0.12.1_Linux_x86_64.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 8586396,
       "digest": "sha256:bd155fe4d53299100585290a128f6f0c844550f57074c287a5980ad44df1e248",
-      "download_count": 50,
+      "download_count": 51,
       "created_at": "2026-09-24T09:30:53Z",
       "updated_at": "2026-09-24T09:30:54Z",
       "browser_download_url": "https://github.com/charmbracelet/vhs/releases/download/v0.12.1/vhs_0.12.1_Windows_i386.zip"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 8790346,
       "digest": "sha256:acaefb840663123fb9cf4a211b5ca8d14bf248e30780a0a436fab7a675615f26",
-      "download_count": 779,
+      "download_count": 817,
       "created_at": "2026-09-24T09:30:53Z",
       "updated_at": "2026-09-24T09:30:54Z",
       "browser_download_url": "https://github.com/charmbracelet/vhs/releases/download/v0.12.1/vhs_0.12.1_Windows_x86_64.zip"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 10046038,
       "digest": "sha256:9dfc753eff7ffe36841b955755b27a8be8bcee76165ecd888b690702d52099a5",
-      "download_count": 66,
+      "download_count": 70,
       "created_at": "2026-09-24T09:30:53Z",
       "updated_at": "2026-09-24T09:30:54Z",
       "browser_download_url": "https://github.com/charmbracelet/vhs/releases/download/v0.12.1/vhs_0.12.1_x86.apk"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 10370096,
       "digest": "sha256:52549ebfb6f358c6d1011c0654bd8d468bead80f5ae1e45bbdd7fbd54b1bcb88",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-09-24T09:30:53Z",
       "updated_at": "2026-09-24T09:30:54Z",
       "browser_download_url": "https://github.com/charmbracelet/vhs/releases/download/v0.12.1/vhs_0.12.1_x86_64.apk"
