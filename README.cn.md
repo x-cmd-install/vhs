@@ -47,7 +47,7 @@ x install vhs
 
 ## 流行度
 
-- **Star**: 21,167 · **Fork**: 487 · **开放 issue**: 262 · **贡献者**: 64
+- **Star**: 21,176 · **Fork**: 487 · **开放 issue**: 262 · **贡献者**: 64
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install vhs
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 0 | 8 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 2 | 3 | 13 | 1 | 0 | 4 |
-| 90d | 2026-07-24 | 2 | 5 | 15 | 2 | 1 | 7 |
-| last180d | 2026-04-25 | 2 | 7 | 24 | 3 | 7 | 8 |
-| 360d | 2025-10-27 | 3 | 24 | 42 | 4 | 21 | 33 |
-| last720d | 2024-11-01 | 5 | 89 | 52 | 19 | 45 | 113 |
+| 30d | 2026-09-23 | 1 | 0 | 8 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 2 | 3 | 13 | 1 | 0 | 4 |
+| 90d | 2026-07-25 | 2 | 5 | 15 | 2 | 0 | 7 |
+| last180d | 2026-04-26 | 2 | 7 | 24 | 3 | 7 | 8 |
+| 360d | 2025-10-28 | 3 | 24 | 42 | 4 | 21 | 33 |
+| last720d | 2024-11-02 | 5 | 89 | 52 | 19 | 45 | 113 |
 
 ## Release 资产
 
@@ -101,6 +101,20 @@ x install vhs
 | [vhs_0.12.1_x86.apk](https://github.com/charmbracelet/vhs/releases/download/v0.12.1/vhs_0.12.1_x86.apk) | 9.6 MiB | `other` |
 | [vhs_0.12.1_x86_64.apk](https://github.com/charmbracelet/vhs/releases/download/v0.12.1/vhs_0.12.1_x86_64.apk) | 9.9 MiB | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/vhs) 上共有 **76** 个发行版报告此项目。**19** 个 ✅ 已是最新上游版本，**50** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `0.12.1` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
+| Fedora rawhide | `0.11.0` | ⚠️ outdated |
+| Nix unstable | `0.12.1` | ✅ latest |
+| Void | `0.12.1` | ✅ latest |
+| Alpine edge | `0.11.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.9.0` | ⚠️ outdated |
+
 ## 改进这些数据
 
 vhs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `vhs` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -110,4 +124,4 @@ vhs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T06:03:40Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T06:09:28Z._

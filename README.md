@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 21,167 · **Forks**: 487 · **Open issues**: 262 · **Contributors**: 64
+- **Stars**: 21,176 · **Forks**: 487 · **Open issues**: 262 · **Contributors**: 64
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 0 | 8 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 2 | 3 | 13 | 1 | 0 | 4 |
-| 90d | 2026-07-24 | 2 | 5 | 15 | 2 | 1 | 7 |
-| last180d | 2026-04-25 | 2 | 7 | 24 | 3 | 7 | 8 |
-| 360d | 2025-10-27 | 3 | 24 | 42 | 4 | 21 | 33 |
-| last720d | 2024-11-01 | 5 | 89 | 52 | 19 | 45 | 113 |
+| 30d | 2026-09-23 | 1 | 0 | 8 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 2 | 3 | 13 | 1 | 0 | 4 |
+| 90d | 2026-07-25 | 2 | 5 | 15 | 2 | 0 | 7 |
+| last180d | 2026-04-26 | 2 | 7 | 24 | 3 | 7 | 8 |
+| 360d | 2025-10-28 | 3 | 24 | 42 | 4 | 21 | 33 |
+| last720d | 2024-11-02 | 5 | 89 | 52 | 19 | 45 | 113 |
 
 ## Release assets
 
@@ -101,6 +101,20 @@ Lowest-scoring checks:
 | [vhs_0.12.1_x86.apk](https://github.com/charmbracelet/vhs/releases/download/v0.12.1/vhs_0.12.1_x86.apk) | 9.6 MiB | `other` |
 | [vhs_0.12.1_x86_64.apk](https://github.com/charmbracelet/vhs/releases/download/v0.12.1/vhs_0.12.1_x86_64.apk) | 9.9 MiB | `other` |
 
+## Distribution status
+
+Reported by **76** distros on [repology.org](https://repology.org/project/vhs). **19** are ✅ on the latest upstream release, **50** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.12.1` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
+| Fedora rawhide | `0.11.0` | ⚠️ outdated |
+| Nix unstable | `0.12.1` | ✅ latest |
+| Void | `0.12.1` | ✅ latest |
+| Alpine edge | `0.11.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.9.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for vhs lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `vhs` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -110,4 +124,4 @@ Install metadata for vhs lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T06:03:39Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T06:09:27Z._
