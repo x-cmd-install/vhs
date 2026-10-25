@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 21,186 · **Forks**: 487 · **Open issues**: 262 · **Contributors**: 64
+- **Stars**: 21,195 · **Forks**: 487 · **Open issues**: 262 · **Contributors**: 64
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 1 | 0 | 8 | 0 | 0 | 0 |
-| last60d | 2026-08-25 | 2 | 3 | 13 | 1 | 0 | 4 |
-| 90d | 2026-07-26 | 2 | 5 | 15 | 2 | 0 | 7 |
-| last180d | 2026-04-27 | 2 | 7 | 24 | 3 | 7 | 8 |
-| 360d | 2025-10-29 | 3 | 24 | 42 | 4 | 20 | 33 |
-| last720d | 2024-11-03 | 5 | 89 | 52 | 19 | 44 | 113 |
+| 30d | 2026-09-25 | 0 | 0 | 8 | 0 | 0 | 0 |
+| last60d | 2026-08-26 | 2 | 3 | 13 | 1 | 0 | 4 |
+| 90d | 2026-07-27 | 2 | 5 | 15 | 2 | 0 | 7 |
+| last180d | 2026-04-28 | 2 | 7 | 24 | 3 | 7 | 8 |
+| 360d | 2025-10-30 | 3 | 24 | 42 | 4 | 20 | 33 |
+| last720d | 2024-11-04 | 5 | 89 | 52 | 19 | 44 | 113 |
 
 ## Release assets
 
@@ -103,13 +103,13 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **76** distros on [repology.org](https://repology.org/project/vhs). **19** are ✅ on the latest upstream release, **50** are ⚠️ on an older version.
+Reported by **76** distros on [repology.org](https://repology.org/project/vhs). **20** are ✅ on the latest upstream release, **49** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.12.1` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Fedora rawhide | `0.11.0` | ⚠️ outdated |
+| Homebrew | `0.12.1` | ✅ latest |
+| Fedora rawhide | `0.12.1` | ✅ latest |
 | Nix unstable | `0.12.1` | ✅ latest |
 | Void | `0.12.1` | ✅ latest |
 | Alpine edge | `0.11.0` | ⚠️ outdated |
@@ -124,4 +124,4 @@ Install metadata for vhs lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:56:32Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:58:32Z._
