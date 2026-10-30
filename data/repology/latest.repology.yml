@@ -1,3 +1,14 @@
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: vhs
+  binname: vhs
+  visiblename: vhs
+  version: 0.12.1
+  origversion: 0.12.1-1
+  status: newest
+  summary: A tool for recording terminal GIFs
+  licenses:
+    - MIT
 - repo: aerynos
   srcname: vhs
   visiblename: vhs
@@ -163,17 +174,6 @@
     - cielesti@protonmail.com
   licenses:
     - MIT
-- repo: nix_unstable
-  srcname: vhs
-  visiblename: vhs
-  version: 0.12.1
-  origversion: null
-  status: newest
-  summary: Tool for generating terminal GIFs with code
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - MIT
 - repo: alpine_3_21
   subrepo: community
   srcname: vhs
@@ -356,14 +356,27 @@
     - wanghao03@loongson.cn
   licenses:
     - MIT
-- repo: fedora_42
-  subrepo: updates
+- repo: alpine_3_24
+  subrepo: community
+  srcname: vhs
+  binname: vhs-bash-completion
+  visiblename: vhs-bash-completion
+  version: 0.11.0
+  origversion: 0.11.0-r4
+  status: outdated
+  summary: Bash completions for vhs
+  maintainers:
+    - wanghao03@loongson.cn
+  licenses:
+    - MIT
+- repo: fedora_43
+  subrepo: release
   srcname: vhs
   binnames:
     - vhs
   visiblename: vhs
-  version: 0.9.0
-  origversion: 0.9.0-2.fc42
+  version: 0.10.0
+  origversion: 0.10.0-3.fc43
   status: outdated
   summary: Your CLI home video recorder
   licenses:
@@ -373,19 +386,6 @@
 - repo: alpine_3_24
   subrepo: community
   srcname: vhs
-  binname: vhs-bash-completion
-  visiblename: vhs-bash-completion
-  version: 0.11.0
-  origversion: 0.11.0-r4
-  status: outdated
-  summary: Bash completions for vhs
-  maintainers:
-    - wanghao03@loongson.cn
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: vhs
   binname: vhs-doc
   visiblename: vhs-doc
   version: 0.11.0
@@ -428,7 +428,7 @@
   binname: vhs
   visiblename: vhs
   version: 0.11.0
-  origversion: 0.11.0-r3
+  origversion: 0.11.0-r4
   status: outdated
   summary: Tool for automatic recording of terminal sessions
   maintainers:
@@ -441,7 +441,7 @@
   binname: vhs-bash-completion
   visiblename: vhs-bash-completion
   version: 0.11.0
-  origversion: 0.11.0-r3
+  origversion: 0.11.0-r4
   status: outdated
   summary: Bash completions for vhs
   maintainers:
@@ -454,7 +454,7 @@
   binname: vhs-doc
   visiblename: vhs-doc
   version: 0.11.0
-  origversion: 0.11.0-r3
+  origversion: 0.11.0-r4
   status: outdated
   summary: Tool for automatic recording of terminal sessions (documentation)
   maintainers:
@@ -467,7 +467,7 @@
   binname: vhs-fish-completion
   visiblename: vhs-fish-completion
   version: 0.11.0
-  origversion: 0.11.0-r3
+  origversion: 0.11.0-r4
   status: outdated
   summary: Fish completions for vhs
   maintainers:
@@ -480,7 +480,7 @@
   binname: vhs-zsh-completion
   visiblename: vhs-zsh-completion
   version: 0.11.0
-  origversion: 0.11.0-r3
+  origversion: 0.11.0-r4
   status: outdated
   summary: Zsh completions for vhs
   maintainers:
@@ -523,14 +523,14 @@
     - maas@aur
   licenses:
     - MIT
-- repo: fedora_43
-  subrepo: release
+- repo: fedora_42
+  subrepo: updates
   srcname: vhs
   binnames:
     - vhs
   visiblename: vhs
-  version: 0.10.0
-  origversion: 0.10.0-3.fc43
+  version: 0.9.0
+  origversion: 0.9.0-2.fc42
   status: outdated
   summary: Your CLI home video recorder
   licenses:
@@ -655,17 +655,6 @@
   summary: A tool for recording terminal GIFs
   licenses:
     - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: vhs
-  binname: vhs
-  visiblename: vhs
-  version: 0.12.1
-  origversion: 0.12.1-1
-  status: newest
-  summary: A tool for recording terminal GIFs
-  licenses:
-    - MIT
 - repo: msys2_clang64
   srcname: mingw-w64-vhs
   binname: mingw-w64-clang-x86_64-vhs
@@ -749,6 +738,17 @@
   version: 0.11.0
   origversion: null
   status: outdated
+  summary: Tool for generating terminal GIFs with code
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: vhs
+  visiblename: vhs
+  version: 0.12.1
+  origversion: null
+  status: newest
   summary: Tool for generating terminal GIFs with code
   maintainers:
     - fallback-mnt-nix@repology
