@@ -1,14 +1,23 @@
-- repo: alpine_3_19
-  subrepo: community
+- repo: manjaro_stable
+  subrepo: extra
   srcname: vhs
   binname: vhs
   visiblename: vhs
   version: 0.6.0
-  origversion: 0.6.0-r7
+  origversion: 0.6.0-1
   status: outdated
-  summary: Tool for automatic recording of terminal sessions
-  maintainers:
-    - cielesti@protonmail.com
+  summary: A tool for recording terminal GIFs
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: vhs
+  binname: vhs
+  visiblename: vhs
+  version: 0.6.0
+  origversion: 0.6.0-1
+  status: outdated
+  summary: A tool for recording terminal GIFs
   licenses:
     - MIT
 - repo: aerynos
@@ -23,6 +32,19 @@
 - repo: alpine_3_19
   subrepo: community
   srcname: vhs
+  binname: vhs
+  visiblename: vhs
+  version: 0.6.0
+  origversion: 0.6.0-r7
+  status: outdated
+  summary: Tool for automatic recording of terminal sessions
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: vhs
   binname: vhs-bash-completion
   visiblename: vhs-bash-completion
   version: 0.6.0
@@ -293,19 +315,6 @@
     - cielesti@protonmail.com
   licenses:
     - MIT
-- repo: alpine_edge
-  subrepo: community
-  srcname: vhs
-  binname: vhs-fish-completion
-  visiblename: vhs-fish-completion
-  version: 0.11.0
-  origversion: 0.11.0-r4
-  status: outdated
-  summary: Fish completions for vhs
-  maintainers:
-    - wanghao03@loongson.cn
-  licenses:
-    - MIT
 - repo: alpine_3_23
   subrepo: community
   srcname: vhs
@@ -345,6 +354,17 @@
     - cielesti@protonmail.com
   licenses:
     - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: vhs
+  binname: vhs
+  visiblename: vhs
+  version: 0.12.1
+  origversion: 0.12.1-1
+  status: newest
+  summary: A tool for recording terminal GIFs
+  licenses:
+    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: vhs
@@ -358,6 +378,20 @@
     - wanghao03@loongson.cn
   licenses:
     - MIT
+- repo: fedora_42
+  subrepo: updates
+  srcname: vhs
+  binnames:
+    - vhs
+  visiblename: vhs
+  version: 0.9.0
+  origversion: 0.9.0-2.fc42
+  status: outdated
+  summary: Your CLI home video recorder
+  licenses:
+    - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0 AND OFL-1.1
+  categories:
+    - Unspecified
 - repo: alpine_3_24
   subrepo: community
   srcname: vhs
@@ -445,6 +479,19 @@
   origversion: 0.11.0-r4
   status: outdated
   summary: Tool for automatic recording of terminal sessions (documentation)
+  maintainers:
+    - wanghao03@loongson.cn
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: vhs
+  binname: vhs-fish-completion
+  visiblename: vhs-fish-completion
+  version: 0.11.0
+  origversion: 0.11.0-r4
+  status: outdated
+  summary: Fish completions for vhs
   maintainers:
     - wanghao03@loongson.cn
   licenses:
@@ -498,20 +545,6 @@
     - maas@aur
   licenses:
     - MIT
-- repo: fedora_42
-  subrepo: updates
-  srcname: vhs
-  binnames:
-    - vhs
-  visiblename: vhs
-  version: 0.9.0
-  origversion: 0.9.0-2.fc42
-  status: outdated
-  summary: Your CLI home video recorder
-  licenses:
-    - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0 AND OFL-1.1
-  categories:
-    - Unspecified
 - repo: fedora_43
   subrepo: release
   srcname: vhs
@@ -608,17 +641,6 @@
   origversion: null
   status: rolling
   summary: Your CLI home video recorder
-- repo: parabola
-  subrepo: extra
-  srcname: vhs
-  binname: vhs
-  visiblename: vhs
-  version: 0.12.1
-  origversion: 0.12.1-1
-  status: newest
-  summary: A tool for recording terminal GIFs
-  licenses:
-    - MIT
 - repo: macports
   srcname: graphics/vhs
   binname: vhs
@@ -633,39 +655,6 @@
     - MIT
   categories:
     - graphics
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: vhs
-  binname: vhs
-  visiblename: vhs
-  version: 0.11.0
-  origversion: 0.11.0-1
-  status: outdated
-  summary: A tool for recording terminal GIFs
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: vhs
-  binname: vhs
-  visiblename: vhs
-  version: 0.12.1
-  origversion: 0.12.1-1
-  status: newest
-  summary: A tool for recording terminal GIFs
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: vhs
-  binname: vhs
-  visiblename: vhs
-  version: 0.12.1
-  origversion: 0.12.1-1
-  status: newest
-  summary: A tool for recording terminal GIFs
-  licenses:
-    - MIT
 - repo: msys2_clang64
   srcname: mingw-w64-vhs
   binname: mingw-w64-clang-x86_64-vhs
@@ -797,6 +786,17 @@
     - MIT
   categories:
     - Unspecified
+- repo: parabola
+  subrepo: extra
+  srcname: vhs
+  binname: vhs
+  visiblename: vhs
+  version: 0.12.1
+  origversion: 0.12.1-1
+  status: newest
+  summary: A tool for recording terminal GIFs
+  licenses:
+    - MIT
 - repo: rosa_13
   subrepo: contrib/release
   srcname: vhs
