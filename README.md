@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 21,268 · **Forks**: 493 · **Open issues**: 265 · **Contributors**: 64
+- **Stars**: 21,271 · **Forks**: 493 · **Open issues**: 265 · **Contributors**: 64
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 8 | 0 | 3 | 0 |
-| last60d | 2026-09-07 | 2 | 2 | 13 | 1 | 3 | 4 |
-| 90d | 2026-08-08 | 2 | 5 | 16 | 1 | 3 | 7 |
-| last180d | 2026-05-10 | 2 | 6 | 26 | 4 | 9 | 8 |
-| 360d | 2025-11-11 | 3 | 24 | 43 | 6 | 21 | 33 |
-| last720d | 2024-11-16 | 5 | 86 | 53 | 18 | 45 | 111 |
+| 30d | 2026-10-08 | 0 | 0 | 8 | 0 | 3 | 0 |
+| last60d | 2026-09-08 | 2 | 2 | 13 | 1 | 3 | 4 |
+| 90d | 2026-08-09 | 2 | 5 | 16 | 1 | 3 | 7 |
+| last180d | 2026-05-11 | 2 | 6 | 25 | 4 | 9 | 8 |
+| 360d | 2025-11-12 | 3 | 24 | 43 | 6 | 21 | 33 |
+| last720d | 2024-11-17 | 5 | 86 | 53 | 18 | 45 | 111 |
 
 ## Release assets
 
@@ -103,12 +103,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **76** distros on [repology.org](https://repology.org/project/vhs). **19** are ✅ on the latest upstream release, **50** are ⚠️ on an older version.
+Reported by **76** distros on [repology.org](https://repology.org/project/vhs). **21** are ✅ on the latest upstream release, **48** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.12.1` | ✅ latest |
-| Homebrew | `0.12.1` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `0.12.1` | ✅ latest |
 | Nix unstable | `0.12.1` | ✅ latest |
 | Void | `0.12.1` | ✅ latest |
@@ -124,4 +124,4 @@ Install metadata for vhs lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T08:19:14Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:26:20Z._
