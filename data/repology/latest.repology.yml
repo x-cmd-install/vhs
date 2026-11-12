@@ -570,6 +570,19 @@
     - Apache-2.0 AND BSD-3-Clause AND MIT AND MPL-2.0 AND OFL-1.1
   categories:
     - Unspecified
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: vhs
+  binname: vhs
+  visiblename: vhs
+  version: 0.12.1
+  origversion: 0.12.1_1
+  status: newest
+  summary: Your CLI home video recorder
+  maintainers:
+    - tranzystorek.io@protonmail.com
+  licenses:
+    - MIT
 - repo: fedora_44
   subrepo: updates
   srcname: vhs
@@ -603,7 +616,7 @@
   binname: vhs
   visiblename: graphics/vhs
   version: 0.12.1
-  origversion: 0.12.1_2
+  origversion: 0.12.1_3
   status: newest
   summary: Your CLI home video recorder
   maintainers:
@@ -876,19 +889,6 @@
   summary: Your CLI home video recorder
   maintainers:
     - gouranga.das.khulna@gmail.com
-- repo: void_x86_64
-  subrepo: x86_64
-  srcname: vhs
-  binname: vhs
-  visiblename: vhs
-  version: 0.12.1
-  origversion: 0.12.1_1
-  status: newest
-  summary: Your CLI home video recorder
-  maintainers:
-    - tranzystorek.io@protonmail.com
-  licenses:
-    - MIT
 - repo: wakemeops
   subrepo: terminal
   binname: vhs
