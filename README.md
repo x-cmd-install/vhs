@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 21,322 · **Forks**: 494 · **Open issues**: 265 · **Contributors**: 64
+- **Stars**: 21,329 · **Forks**: 494 · **Open issues**: 265 · **Contributors**: 64
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 4 | 0 | 3 | 0 |
-| last60d | 2026-09-17 | 1 | 0 | 11 | 0 | 3 | 1 |
-| 90d | 2026-08-18 | 2 | 3 | 16 | 1 | 3 | 4 |
-| last180d | 2026-05-20 | 2 | 6 | 23 | 3 | 8 | 8 |
-| 360d | 2025-11-21 | 3 | 22 | 43 | 6 | 21 | 30 |
-| last720d | 2024-11-26 | 5 | 86 | 53 | 16 | 45 | 111 |
+| 30d | 2026-10-18 | 0 | 0 | 4 | 0 | 3 | 0 |
+| last60d | 2026-09-18 | 1 | 0 | 10 | 0 | 3 | 1 |
+| 90d | 2026-08-19 | 2 | 3 | 16 | 1 | 3 | 4 |
+| last180d | 2026-05-21 | 2 | 6 | 23 | 3 | 8 | 8 |
+| 360d | 2025-11-22 | 3 | 22 | 43 | 6 | 21 | 30 |
+| last720d | 2024-11-27 | 5 | 86 | 53 | 16 | 45 | 111 |
 
 ## Release assets
 
@@ -103,7 +103,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **77** distros on [repology.org](https://repology.org/project/vhs). **22** are ✅ on the latest upstream release, **48** are ⚠️ on an older version.
+Reported by **79** distros on [repology.org](https://repology.org/project/vhs). **23** are ✅ on the latest upstream release, **48** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -124,4 +124,4 @@ Install metadata for vhs lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:58:33Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:46:10Z._
