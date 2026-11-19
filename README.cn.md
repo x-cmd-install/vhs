@@ -26,12 +26,12 @@ x install vhs
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5 / 10**
+总评分: **4.7 / 10**
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (3/10) — Found 7/19 approved changesets -- score normalized to 3
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -47,22 +47,22 @@ x install vhs
 
 ## 流行度
 
-- **Star**: 21,329 · **Fork**: 494 · **开放 issue**: 265 · **贡献者**: 64
+- **Star**: 21,342 · **Fork**: 495 · **开放 issue**: 266 · **贡献者**: 64
 
 ## 累计统计
 
-- **发布数**: 17 · **已合并 PR**: 289 · **开放 PR**: 59 · **已关闭 issue**: 145 · **开放 issue**: 120 · **提交数**: 762
+- **发布数**: 17 · **已合并 PR**: 289 · **开放 PR**: 60 · **已关闭 issue**: 145 · **开放 issue**: 121 · **提交数**: 762
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 4 | 0 | 3 | 0 |
-| last60d | 2026-09-18 | 1 | 0 | 10 | 0 | 3 | 1 |
-| 90d | 2026-08-19 | 2 | 3 | 16 | 1 | 3 | 4 |
-| last180d | 2026-05-21 | 2 | 6 | 23 | 3 | 8 | 8 |
-| 360d | 2025-11-22 | 3 | 22 | 43 | 6 | 21 | 30 |
-| last720d | 2024-11-27 | 5 | 86 | 53 | 16 | 45 | 111 |
+| 30d | 2026-10-20 | 0 | 0 | 4 | 0 | 4 | 0 |
+| last60d | 2026-09-20 | 1 | 0 | 11 | 0 | 4 | 1 |
+| 90d | 2026-08-21 | 2 | 3 | 17 | 1 | 4 | 4 |
+| last180d | 2026-05-23 | 2 | 6 | 24 | 3 | 9 | 8 |
+| 360d | 2025-11-24 | 3 | 21 | 44 | 6 | 22 | 30 |
+| last720d | 2024-11-29 | 5 | 86 | 54 | 16 | 46 | 111 |
 
 ## Release 资产
 
@@ -124,4 +124,4 @@ vhs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T08:46:10Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T09:19:53Z._
