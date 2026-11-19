@@ -1,35 +1,68 @@
-- repo: homebrew
+- repo: alpine_3_22
+  subrepo: community
   srcname: vhs
-  visiblename: vhs
-  version: 0.12.1
-  origversion: null
-  status: newest
-  summary: Your CLI home video recorder
-- repo: homebrew
+  binname: vhs-bash-completion
+  visiblename: vhs-bash-completion
+  version: 0.9.0
+  origversion: 0.9.0-r10
+  status: outdated
+  summary: Bash completions for vhs
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
   srcname: vhs
-  visiblename: vhs
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Your CLI home video recorder
-- repo: wakemeops
-  subrepo: terminal
+  binname: vhs-doc
+  visiblename: vhs-doc
+  version: 0.8.0
+  origversion: 0.8.0-r5
+  status: outdated
+  summary: Tool for automatic recording of terminal sessions (documentation)
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: vhs
+  binname: vhs-fish-completion
+  visiblename: vhs-fish-completion
+  version: 0.8.0
+  origversion: 0.8.0-r5
+  status: outdated
+  summary: Fish completions for vhs
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: vhs
+  binname: vhs-zsh-completion
+  visiblename: vhs-zsh-completion
+  version: 0.8.0
+  origversion: 0.8.0-r5
+  status: outdated
+  summary: Zsh completions for vhs
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: vhs
   binname: vhs
   visiblename: vhs
   version: 0.9.0
-  origversion: 0.9.0-1~ops2deb
-  status: legacy
+  origversion: 0.9.0-r10
+  status: outdated
+  summary: Tool for automatic recording of terminal sessions
   maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: vhs
-  visiblename: vhs
-  version: 0.8.0
-  origversion: 0.8.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
+    - cielesti@protonmail.com
+  licenses:
+    - MIT
 - repo: aerynos
   srcname: vhs
   visiblename: vhs
@@ -195,71 +228,6 @@
     - cielesti@protonmail.com
   licenses:
     - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: vhs
-  binname: vhs-doc
-  visiblename: vhs-doc
-  version: 0.8.0
-  origversion: 0.8.0-r5
-  status: outdated
-  summary: Tool for automatic recording of terminal sessions (documentation)
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: vhs
-  binname: vhs-fish-completion
-  visiblename: vhs-fish-completion
-  version: 0.8.0
-  origversion: 0.8.0-r5
-  status: outdated
-  summary: Fish completions for vhs
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: vhs
-  binname: vhs-zsh-completion
-  visiblename: vhs-zsh-completion
-  version: 0.8.0
-  origversion: 0.8.0-r5
-  status: outdated
-  summary: Zsh completions for vhs
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: vhs
-  binname: vhs
-  visiblename: vhs
-  version: 0.9.0
-  origversion: 0.9.0-r10
-  status: outdated
-  summary: Tool for automatic recording of terminal sessions
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: vhs
-  binname: vhs-bash-completion
-  visiblename: vhs-bash-completion
-  version: 0.9.0
-  origversion: 0.9.0-r10
-  status: outdated
-  summary: Bash completions for vhs
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - MIT
 - repo: alpine_3_22
   subrepo: community
   srcname: vhs
@@ -321,6 +289,19 @@
   origversion: 0.10.0-r10
   status: outdated
   summary: Bash completions for vhs
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: vhs
+  binname: vhs-doc
+  visiblename: vhs-doc
+  version: 0.10.0
+  origversion: 0.10.0-r10
+  status: outdated
+  summary: Tool for automatic recording of terminal sessions (documentation)
   maintainers:
     - cielesti@protonmail.com
   licenses:
@@ -328,27 +309,14 @@
 - repo: alpine_edge
   subrepo: community
   srcname: vhs
-  binname: vhs-fish-completion
-  visiblename: vhs-fish-completion
+  binname: vhs-zsh-completion
+  visiblename: vhs-zsh-completion
   version: 0.11.0
   origversion: 0.11.0-r4
   status: outdated
-  summary: Fish completions for vhs
+  summary: Zsh completions for vhs
   maintainers:
     - wanghao03@loongson.cn
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: vhs
-  binname: vhs-doc
-  visiblename: vhs-doc
-  version: 0.10.0
-  origversion: 0.10.0-r10
-  status: outdated
-  summary: Tool for automatic recording of terminal sessions (documentation)
-  maintainers:
-    - cielesti@protonmail.com
   licenses:
     - MIT
 - repo: alpine_3_23
@@ -484,12 +452,12 @@
 - repo: alpine_edge
   subrepo: community
   srcname: vhs
-  binname: vhs-zsh-completion
-  visiblename: vhs-zsh-completion
+  binname: vhs-fish-completion
+  visiblename: vhs-fish-completion
   version: 0.11.0
   origversion: 0.11.0-r4
   status: outdated
-  summary: Zsh completions for vhs
+  summary: Fish completions for vhs
   maintainers:
     - wanghao03@loongson.cn
   licenses:
@@ -515,7 +483,7 @@
   binname: vhs
   visiblename: vhs
   version: 0.11.0
-  origversion: 0.11.0-1
+  origversion: 0.11.0-2
   status: outdated
   summary: Recorder for command-line application output
   maintainers:
@@ -670,6 +638,20 @@
     - dtxdf@freebsd.org
   categories:
     - graphics
+- repo: homebrew
+  srcname: vhs
+  visiblename: vhs
+  version: 0.12.1
+  origversion: null
+  status: newest
+  summary: Your CLI home video recorder
+- repo: homebrew
+  srcname: vhs
+  visiblename: vhs
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Your CLI home video recorder
 - repo: macports
   srcname: graphics/vhs
   binname: vhs
@@ -968,6 +950,24 @@
   visiblename: vhs
   version: 0.10.0
   origversion: 0.10.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: vhs
+  visiblename: vhs
+  version: 0.9.0
+  origversion: 0.9.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: vhs
+  visiblename: vhs
+  version: 0.8.0
+  origversion: 0.8.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
