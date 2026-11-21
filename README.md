@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 21,350 · **Forks**: 497 · **Open issues**: 267 · **Contributors**: 64
+- **Stars**: 21,363 · **Forks**: 496 · **Open issues**: 267 · **Contributors**: 64
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 289 · **Open PRs**: 60 · **Closed issues**: 145 · **Open issues**: 122 · **Commits**: 762
+- **Releases**: 17 · **Merged PRs**: 289 · **Open PRs**: 59 · **Closed issues**: 145 · **Open issues**: 122 · **Commits**: 762
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 0 | 4 | 0 | 5 | 0 |
-| last60d | 2026-09-21 | 1 | 0 | 11 | 0 | 5 | 1 |
-| 90d | 2026-08-22 | 2 | 3 | 17 | 1 | 5 | 4 |
-| last180d | 2026-05-24 | 2 | 6 | 24 | 3 | 10 | 8 |
-| 360d | 2025-11-25 | 3 | 21 | 44 | 6 | 23 | 30 |
-| last720d | 2024-11-30 | 5 | 86 | 54 | 16 | 47 | 111 |
+| 30d | 2026-10-22 | 0 | 0 | 4 | 0 | 5 | 0 |
+| last60d | 2026-09-22 | 1 | 0 | 10 | 0 | 5 | 1 |
+| 90d | 2026-08-23 | 2 | 3 | 15 | 1 | 5 | 4 |
+| last180d | 2026-05-25 | 2 | 6 | 23 | 3 | 10 | 8 |
+| 360d | 2025-11-26 | 3 | 21 | 43 | 6 | 23 | 30 |
+| last720d | 2024-12-01 | 5 | 86 | 53 | 16 | 47 | 111 |
 
 ## Release assets
 
@@ -124,4 +124,4 @@ Install metadata for vhs lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T10:24:05Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:03:05Z._
